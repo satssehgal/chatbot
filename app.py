@@ -29,10 +29,6 @@ chatbot = ChatBot(botname,
             "import_path": "covid19_adapter.Covid19Adapter",
 
         },
-        {
-            "import_path": "alarm.AlarmAdapter",
-
-        },
     ],
  )
 
